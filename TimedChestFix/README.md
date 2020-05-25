@@ -1,6 +1,6 @@
 ﻿# TimedChestFix
 Changes the way the Timed Security Chest on Rallypoint Delta works.
-Currently, it changes the spawn from being capped at 10 minutes no matter what, to the formula "StageClearCount * Interval" where Interval is 300 by default. This makes it so if you manage to make it to Rally Point Delta doing each previous stage 5 minutes each, the timed chest could be opened. The chest could be open more than once.
+Currently, it changes the spawn from being capped at 10 minutes no matter what, to the formula `StageClearCount * Interval` where Interval is 300 by default. This makes it so if you manage to make it to Rally Point Delta doing each previous stage 5 minutes each, the timed chest could be opened. The chest could be open more than once.
 
 (All configurable in the config file located in BepinEx\config.)
 

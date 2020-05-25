@@ -2,7 +2,7 @@
 A few mods made for Risk of Rain 2.
 
 ## TimedChestFix
-Changes the way the Timed Security Chest on Rallypoint Delta works. Currently, it changes the spawn from being capped at 10 minutes no matter what, to the formula "StageClearCount * Interval" where Interval is 300 by default. This makes it so if you manage to make it to Rally Point Delta doing each previous stage 5 minutes each, the timed chest could be opened. The chest could be open more than once.
+Changes the way the Timed Security Chest on Rallypoint Delta works. Currently, it changes the spawn from being capped at 10 minutes no matter what, to the formula `StageClearCount * Interval` where Interval is 300 by default. This makes it so if you manage to make it to Rally Point Delta doing each previous stage 5 minutes each, the timed chest could be opened. The chest could be open more than once.
 
 ## ebil-items
 wip
